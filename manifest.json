@@ -1,7 +1,7 @@
 {
 	"id": "asana-query",
 	"name": "Asana Query",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.4.0",
 	"description": "Embed live Asana tasks in your notes with query code blocks. Filter by project, assignee, and due date, and complete tasks without leaving Obsidian.",
 	"author": "nord342",

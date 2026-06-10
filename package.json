@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-asana-query",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Embed live Asana tasks in your Obsidian notes with query code blocks",
 	"main": "main.js",
 	"scripts": {
