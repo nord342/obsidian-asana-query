@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "1.4.0",
 	"description": "Embed live Asana tasks in your notes with query code blocks. Filter by project, assignee, and due date, and complete tasks without leaving Obsidian.",
-	"author": "Muqi Butt",
+	"author": "nord342",
 	"authorUrl": "https://github.com/nord342",
 	"isDesktopOnly": false
 }

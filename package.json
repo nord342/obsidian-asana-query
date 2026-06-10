@@ -12,7 +12,7 @@
 		"obsidian-plugin",
 		"asana"
 	],
-	"author": "Muqi Butt",
+	"author": "nord342",
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "^20.11.0",
